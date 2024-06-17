@@ -1,0 +1,1 @@
+<?php echo "file:".file_get_contents("C:\Users\pc\dante_config\serial.txt");  ?>
